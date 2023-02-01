@@ -1,0 +1,4 @@
+#define IDI_APPLICATION     32512
+
+IDI_APPLICATION    ICON   "${ApplicationIcon}"
+GLFW_ICON ICON DISCARDABLE "${ApplicationIcon}"
